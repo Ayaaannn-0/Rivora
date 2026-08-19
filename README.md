@@ -13,8 +13,8 @@ Rivora is a web-based competitive intelligence dashboard that monitors target UR
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rivora.git
-   cd rivora
+   git clone [https://github.com/Ayaaannn-0/Rivora.git](https://github.com/Ayaaannn-0/Rivora.git)
+   cd Rivora
    ```
 
 2. **Set up a virtual environment and install dependencies:**
